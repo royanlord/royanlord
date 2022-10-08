@@ -16,15 +16,15 @@
 <img src="https://img.shields.io/badge/royanfarid32@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="royanfarid32@gmail.com">
 <a  href="https://www.twitter.com/royan_farid/">
 <img src="https://img.shields.io/badge/@royan_farid-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a><space><space>
-<a  href="https://www.instagram.com/royan_farid/">
+</a>
+<space><space><a  href="https://www.instagram.com/royan_farid/">
 <img src="https://img.shields.io/badge/@royan_farid-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <br>
 <a href="https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/">
 <img src="https://img.shields.io/badge/Royan Farid F-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a><space><space>
-<a href="https://github.com/royanlord/">
+</a>
+<space><space><a href="https://github.com/royanlord/">
 <img src="https://img.shields.io/badge/royanlord-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 <!-- [![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
