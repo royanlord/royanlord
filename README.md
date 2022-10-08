@@ -13,9 +13,10 @@
 </em></p> -->
 
 ## How to reach me :
-[![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
+<a  href="https://www.twitter.com/royan_farid/"><img src="https://img.shields.io/badge/@royan_farid-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white"><img src="https://img.shields.io/twitter/follow/royan_farid?style=social"</a>
+<!-- [![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
 [![Linkedin: Royan Farid](https://img.shields.io/badge/-royanfarid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)](https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)
-[![GitHub royanlord](https://img.shields.io/github/followers/royanlord?label=follow&style=social)](https://github.com/royanlord)
+[![GitHub royanlord](https://img.shields.io/github/followers/royanlord?label=follow&style=social)](https://github.com/royanlord) -->
 
 <br>
 
