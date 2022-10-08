@@ -24,6 +24,9 @@
 <h2>Visitor's count :eyes:</h2>
 <p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
+<br>
+
+## Profile Stats 🎹
 ![Royan's github stats](https://github-readme-stats.vercel.app/api?username=royanlord&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
@@ -33,4 +36,4 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> -->
