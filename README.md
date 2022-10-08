@@ -22,13 +22,13 @@
 <h1>Github stats :bar_chart:</h1>
 
 <h2>Visitor's count :eyes:</h2>
-
 <p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
 ![Royan's github stats](https://github-readme-stats.vercel.app/api?username=royanlord&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
+<h2>Top langs :tongue:</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
