@@ -13,7 +13,7 @@
 
 
 
-[<img align='center' src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/31yu5raavt7smqyv5tblmwud4uiq)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/1xfBrlfly0zvTsZAkPj2Et)
 
 
 <br>
