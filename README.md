@@ -1,6 +1,7 @@
 <h2> Hi, I'm Royan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-## Here are some ideas to help you get started:
+
+### Here are some ideas to help you get started:
 
 - 📚 I’m Informatics Engineering Student at <a href="https://dinus.ac.id/">Dian Nuswantoro University</a>
 - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/>
