@@ -6,3 +6,12 @@
 [![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
 [![Linkedin: Royan Farid](https://img.shields.io/badge/-royanfarid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)](https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)
 [![GitHub royanlord](https://img.shields.io/github/followers/royanlord?label=follow&style=social)](https://github.com/royanlord)
+
+![Royan's github stats](https://github-readme-stats.vercel.app/api?username=royanlord&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)<img src="https://github.com/royanlord/royanlord/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
+<br>
