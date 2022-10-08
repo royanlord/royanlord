@@ -11,7 +11,7 @@
 
 <h4>Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
 ## Spotify Playing 🎧
 
