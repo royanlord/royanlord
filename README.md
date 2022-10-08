@@ -9,9 +9,6 @@
 
 <br>
 
-<h2>Visitor's count :eyes:</h2>
-
-<p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
 ## Spotify Playing 🎧
 
@@ -21,6 +18,12 @@
 
 
 <br>
+
+<h1>Github stats :bar_chart:</h1>
+
+<h2>Visitor's count :eyes:</h2>
+
+<p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
 ![Royan's github stats](https://github-readme-stats.vercel.app/api?username=royanlord&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
