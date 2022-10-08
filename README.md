@@ -9,7 +9,7 @@
 
 <br>
 
-<h4>Visitor's count :eyes:</h4>
+<h2>Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
 
