@@ -13,12 +13,16 @@
 </em></p> -->
 
 ## How to reach me :
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">
-<br>
+<img src="https://img.shields.io/badge/royanfarid32@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="royanfarid32@gmail.com">
 <a  href="https://www.twitter.com/royan_farid/">
 <img src="https://img.shields.io/badge/@royan_farid-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-
+<a  href="https://www.instagram.com/sharannyo_/">
+<img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sharannyobasu/">
+<img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
 <!-- [![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
 [![Linkedin: Royan Farid](https://img.shields.io/badge/-royanfarid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)](https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)
 [![GitHub royanlord](https://img.shields.io/github/followers/royanlord?label=follow&style=social)](https://github.com/royanlord) -->
