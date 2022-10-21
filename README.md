@@ -62,8 +62,8 @@
 <br>
 
 ## Top Langs 👅
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)-->
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&langs_count=10&theme=tokyonight&layout=compact)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 <br>
 
