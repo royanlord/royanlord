@@ -4,7 +4,7 @@
 ## About Me
 
 - 📚 I’m Informatics Engineering Student at <a href="https://dinus.ac.id/">Dian Nuswantoro University</a>
-- 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/>
+<!-- - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/> -->
 - 🌱 I’m currently learning about <strong>Web Development</strong>
 <!-- - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong> -->
