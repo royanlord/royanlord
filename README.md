@@ -15,9 +15,9 @@
 
 ## How to reach me :
 <img src="https://img.shields.io/badge/royanfarid32@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="royanfarid32@gmail.com">
-<a  href="https://www.twitter.com/royan_farid/">
+<!-- <a  href="https://www.twitter.com/royan_farid/">
 <img src="https://img.shields.io/badge/Royaan-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+</a> -->
 <a  href="https://www.instagram.com/royan_farid/">
 <img src="https://img.shields.io/badge/Royan Farid-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
