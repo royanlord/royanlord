@@ -6,7 +6,7 @@
 ---
 
 <div id="about-me">
-  <h2>👋 Hi there, I'm Royan!</h2>
+  <h2>👋 Hi there, I'm Royan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   <p>
     A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web and desktop applications. I thrive on crafting seamless and intuitive user experiences.
     <br><br>
