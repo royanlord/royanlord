@@ -1,89 +1,112 @@
-<h2> Hi, I'm Royan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div id="header" align="center">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9np7GxKt8p22/giphy.gif" width="100"/> -->
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txdmFpYnRydTZqbnpuanZ4bnExNmRocDF5MnBqMzI1Mjh2NWNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200"/> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandoMjIwYnNhOTNudG5yMXZ1ZGNxaWo0Yjd1Zjg4bGx5eWF3OHdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
+</div>
 
-## About Me
+---
 
-<!-- 📚 I’m Informatics Engineering Student at <a href="https://dinus.ac.id/">Dian Nuswantoro University</a> -->
-- 📚 I’m Front-End Developer</a>
-<!-- - 📚 I’m Web Developer Student at <a href="https://www.hacktiv8.com/">Hacktiv8<a/> -->
-- 🌱 I’m currently working using <strong>ReactJS, NextJS, VueJS, ElectronJS, JavaScript, and TypeScript</strong>
-<!-- - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong> -->
-<!-- - ⚡ Fun fact: I can talk 24/7 about football. -->
-<!-- <p><em>Informatics Engineering Student at <a href="https://dinus.ac.id/">Dian Nuswantoro University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
-</em></p> -->
+<div id="about-me">
+  <h2>👋 Hi there, I'm Royan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  <p align="right">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txdmFpYnRydTZqbnpuanZ4bnExNmRocDF5MnBqMzI1Mjh2NWNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="150" align="right" alt="Coding GIF"/>
+  </p>
+  <p>
+    A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web and desktop applications. I thrive on crafting seamless and intuitive user experiences.
+    <br><br>
+    Currently, I'm also pursuing my <b>Master's Degree in Computer Science</b> at <b>Dian Nuswantoro University (UDINUS)</b>, deepening my understanding of computational theories and technological innovation. I'm always eager to take on new challenges and explore opportunities for continuous learning and collaboration on exciting projects.
+  </p>
+</div>
 
-## How to reach me :
-<img src="https://img.shields.io/badge/royanfarid32@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="royanfarid32@gmail.com">
-<!-- <a  href="https://www.twitter.com/royan_farid/">
-<img src="https://img.shields.io/badge/Royaan-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a> -->
-<a  href="https://www.instagram.com/royan_farid/">
-<img src="https://img.shields.io/badge/Royan Farid-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<br>
-<a href="https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/">
-<img src="https://img.shields.io/badge/Royan Farid F-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-<a href="https://github.com/royanlord/">
-<img src="https://img.shields.io/badge/Royan Farid-000000.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-<!-- [![Twitter: Royaan](https://img.shields.io/twitter/follow/royan_farid?style=social)](https://twitter.com/royan_farid)
-[![Linkedin: Royan Farid](https://img.shields.io/badge/-royanfarid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)](https://www.linkedin.com/in/royan-farid-fathurrahman-b018b022a/)
-[![GitHub royanlord](https://img.shields.io/github/followers/royanlord?label=follow&style=social)](https://github.com/royanlord) -->
+---
 
-<br>
+<div id="tech-stack">
+  <h2>🛠️ My Tech Stack</h2>
+  <p>Here are some of the technologies and tools I'm proficient with and use in my development:</p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+    <br>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  </p>
+</div>
 
-## Tools I work upon 🛠
+---
 
-<!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/react%20-000000.svg?&style=for-the-badge&logo=react&logoColor=blue"/>  <img src="https://img.shields.io/badge/astro%20-000000.svg?&style=for-the-badge&logo=astro&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="AstroJS" alt="AstroJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+<div id="connect-with-me">
+  <h2>🌐 Connect with Me</h2>
+  <p>Feel free to connect and discuss more:</p>
+  <p align="left">
+    <a href="mailto:your_email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<br>
+---
 
+<div id="visitor-badge" align="center">
+  <img src="https://komarev.com/ghpvc/?username=royanlord&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-## Spotify Playing 🎧
+---
 
+<div id="github-stats">
+  <h2>📈 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=royanlord&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=royanlord&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" />
+  </p>
+</div>
 
+---
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/1xfBrlfly0zvTsZAkPj2Et)
+<div id="github-trophies" align="center">
+  <h2>🏆 My GitHub Trophies</h2>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=royanlord&theme=radical&no-frame=false&no-background=false" alt="GitHub Trophies" />
+  </p>
+</div>
 
+---
 
-<br>
+<!-- <div id="wakatime-stats" align="center">
+  <h2>📊 My WakaTime Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=royanlord&layout=compact&theme=radical&hide_border=false" alt="WakaTime Stats" />
+  </p>
+</div> -->
 
-<h1>Github stats :bar_chart:</h1>
+---
 
-<h2>Visitor's count :eyes:</h2>
-<p><img src="https://profile-counter.glitch.me/{royanlord}/count.svg" alt="royanlord :: Visitor's Count" /></p>
+<div id="profile-summary-cards" align="center">
+  <h2>✨ Profile Summary</h2>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royanlord&theme=radical" alt="Profile Details" />
+  </p>
+</div>
 
-<br>
+---
 
-## Profile Stats 🎹
-![Royan's github stats](https://github-readme-stats.vercel.app/api?username=royanlord&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-<br>
-
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&theme=radical)-->
-## Top Langs 👅
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&langs_count=10&theme=tokyonight&layout=compact)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
-<br>
-
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> -->
+<div id="footer" align="center">
+  <p>Building the web, one line of code at a time. Happy coding! ✨</p>
+  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqd20ydHliZmpycjhybDZjdng2MDEwZjR6cW9nNmJkNncybWtqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDFEIflr3aNtUXP8Od/giphy.gif" width="300"/>
+</div>
