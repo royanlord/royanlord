@@ -103,5 +103,6 @@
 ---
 
 <div id="footer" align="center">
-  <p>Thanks for visiting! 😊</p>
+  <p>Building the web, one line of code at a time. Happy coding! ✨</p>
+  <img src="https://raw.githubusercontent.com/half-blood/half-blood/main/assets/footer-wave.gif" alt="Wave animation" width="50"/>
 </div>
