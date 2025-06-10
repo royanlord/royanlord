@@ -58,12 +58,45 @@
 
 ---
 
+<div id="visitor-badge" align="center">
+  <img src="https://komarev.com/ghpvc/?username=royanlord&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
 <div id="github-stats">
   <h2>📈 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=royanlord&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=royanlord&theme=radical&hide_border=false" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royanlord&layout=compact&theme=radical&hide_border=false&langs_count=10" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+<div id="github-trophies" align="center">
+  <h2>🏆 My GitHub Trophies</h2>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=royanlord&theme=radical&no-frame=false&no-background=false" alt="GitHub Trophies" />
+  </p>
+</div>
+
+---
+
+<!-- <div id="wakatime-stats" align="center">
+  <h2>📊 My WakaTime Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=royanlord&layout=compact&theme=radical&hide_border=false" alt="WakaTime Stats" />
+  </p>
+</div> -->
+
+---
+
+<div id="profile-summary-cards" align="center">
+  <h2>✨ Profile Summary</h2>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royanlord&theme=radical" alt="Profile Details" />
   </p>
 </div>
 
