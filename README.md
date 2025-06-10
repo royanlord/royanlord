@@ -1,12 +1,16 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9np7GxKt8p22/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/xT0xeuN4820H5aFv4I/giphy.gif" width="100"/>
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txdmFpYnRydTZqbnpuanZ4bnExNmRocDF5MnBqMzI1Mjh2NWNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200"/> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExandoMjIwYnNhOTNudG5yMXZ1ZGNxaWo0Yjd1Zjg4bGx5eWF3OHdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
 </div>
 
 ---
 
 <div id="about-me">
   <h2>👋 Hi there, I'm Royan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  <p align="right">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txdmFpYnRydTZqbnpuanZ4bnExNmRocDF5MnBqMzI1Mjh2NWNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="150" align="right" alt="Coding GIF"/>
+  </p>
   <p>
     A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web and desktop applications. I thrive on crafting seamless and intuitive user experiences.
     <br><br>
@@ -104,5 +108,5 @@
 
 <div id="footer" align="center">
   <p>Building the web, one line of code at a time. Happy coding! ✨</p>
-  <img src="https://raw.githubusercontent.com/half-blood/half-blood/main/assets/footer-wave.gif" alt="Wave animation" width="50"/>
+  <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqd20ydHliZmpycjhybDZjdng2MDEwZjR6cW9nNmJkNncybWtqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDFEIflr3aNtUXP8Od/giphy.gif" width="300"/>
 </div>
