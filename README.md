@@ -13,11 +13,11 @@
   </p>
   <p>
     A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web 
-    and desktop applications. I thrive on crafting seamless and intuitive user experiences.
+    <br>and desktop applications. I thrive on crafting seamless and intuitive user experiences.
     <br><br>
     Currently, I'm also pursuing my <b>Master's Degree in Computer Science</b> at <b>Dian Nuswantoro University (UDINUS)</b>, deepening my understanding of computational theories 
     and technological innovation. I'm always eager to take on new challenges and explore opportunities for continuous learning and collaboration 
-    on exciting projects.
+    <br>on exciting projects.
   </p>
 </div>
 
