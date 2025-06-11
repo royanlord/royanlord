@@ -12,10 +12,12 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2txdmFpYnRydTZqbnpuanZ4bnExNmRocDF5MnBqMzI1Mjh2NWNvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="150" align="right" alt="Coding GIF"/>
   </p>
   <p>
-    A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web and desktop applications. I thrive on crafting seamless and intuitive user experiences.
+    A passionate <b>Front-End Developer</b> specializing in building interactive, modern, and responsive web 
+    and desktop applications. I thrive on crafting seamless and intuitive user experiences.
     <br><br>
     Currently, I'm also pursuing my <b>Master's Degree in Computer Science</b> at <b>Dian Nuswantoro University (UDINUS)</b>, deepening my understanding of computational theories 
-    and technological innovation. I'm always eager to take on new challenges and explore opportunities for continuous learning and collaboration on exciting projects.
+    and technological innovation. I'm always eager to take on new challenges and explore opportunities for continuous learning and collaboration 
+    on exciting projects.
   </p>
 </div>
 
