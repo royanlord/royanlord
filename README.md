@@ -54,10 +54,10 @@
   <h2>🌐 Connect with Me</h2>
   <p>Feel free to connect and discuss more:</p>
   <p align="left">
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:royanfarid32@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/your_linkedin_username" target="_blank">
+    <a href="https://linkedin.com/in/royan-farid-fathurrahman" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
